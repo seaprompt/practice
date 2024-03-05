@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1bd6c9-76b0-40e9-afb6-4dd5148f2cd8" name="Changes" comment="feature one update 1" />
+    <list default="true" id="ba1bd6c9-76b0-40e9-afb6-4dd5148f2cd8" name="Changes" comment="removed updates">
+      <change beforePath="$PROJECT_DIR$/Practice Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Page.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,6 @@
     }
   ],
   "lastFilter": {
-    "state": "OPEN"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
@@ -250,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709610812196</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="removed updates">
+      <option name="closed" value="true" />
+      <created>1709611011507</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709611011507</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +361,7 @@
     <MESSAGE value="unversioned pages" />
     <MESSAGE value="feature one update" />
     <MESSAGE value="feature one update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature one update 1" />
+    <MESSAGE value="removed updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed updates" />
   </component>
 </project>
