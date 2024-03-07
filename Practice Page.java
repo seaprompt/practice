@@ -5,10 +5,11 @@ System.out.println("line 2 ");
 
 // TODO
 
+// TODO
 
 
 //test method
-void test() {
+void testPrint() {
     System.out.println("test");
 }
 
