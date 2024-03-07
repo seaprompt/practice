@@ -9,7 +9,7 @@ System.out.println("line 2 ");
 
 
 //test method
-void test() {
+void testPrint() {
     System.out.println("test");
 }
 
