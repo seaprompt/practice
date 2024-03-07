@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba1bd6c9-76b0-40e9-afb6-4dd5148f2cd8" name="Changes" comment="removed updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Page.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,16 +29,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
     {
-      &quot;state&quot;: &quot;OPEN&quot;
+      "searchQuery": "updated with Planet Class",
+      "state": "OPEN"
+    },
+    {
+      "state": "OPEN",
+      "author": "seaprompt"
+    },
+    {
+      "state": "OPEN"
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  "lastFilter": {
+    "state": "OPEN"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
       <RepoCoordinatesHolder>
@@ -53,6 +60,9 @@
         <option name="url" value="https://github.com/seaprompt/practice.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Planet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -277,7 +287,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709611420567</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="removed updates">
+      <option name="closed" value="true" />
+      <created>1709783234503</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709783234503</updated>
+    </task>
+    <task id="LOCAL-00025" summary="removed updates">
+      <option name="closed" value="true" />
+      <created>1709783524572</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709783524572</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +319,11 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="new-branch-baseline" />
                 </option>
               </RecentGroup>
@@ -304,11 +335,6 @@
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="Main-Local" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="origin/main" />
                 </option>
               </RecentGroup>
               <RecentGroup>
@@ -342,14 +368,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature-one" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
